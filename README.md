@@ -46,6 +46,9 @@ Choose providers and models for your workflow. Give workers focused tasks, follo
 ## Download and install
 
 1. Open the **[latest release](https://github.com/A7me2d/Openzero-Releases/releases/latest)**.
+
+KEY : CR-64F9821F05B2193A2F40FAA5E92A50B7D300E64797AD654E
+
 2. Under **Assets**, download `Open-Zero-Setup-<version>.exe`.
 3. Run the installer, launch Open Zero and activate it with a valid activation key.
 4. Open **Settings → Connections & updates** and enable the providers you want to use.
